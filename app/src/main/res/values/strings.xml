@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EventOnClickWays</string>
+    <string name="txt_title">Onclick Ways</string>
+    <string name="button_anonymous_class">Button Anonymous Class</string>
+    <string name="button_use_implement">Button Using Implements</string>
+    <string name="button_use_onclick">Button Using OnClick</string>
+</resources>
